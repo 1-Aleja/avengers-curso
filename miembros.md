@@ -16,3 +16,4 @@
 * Thor
 * Vision
 * Antman
+* Nick Fury
